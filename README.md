@@ -4,6 +4,7 @@
     - Tensorflow-GPU
     - keras
     - Vgg16 model
+    - This reposition have some dataset which you can take to train by your own.
 
 - ### Except achievement:
     - detect the element location and split dataset from screen shot
