@@ -94,9 +94,6 @@ Contributions to the Neural Network Application Game Monitor Tool are welcome! I
 
  the GitHub repository.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
