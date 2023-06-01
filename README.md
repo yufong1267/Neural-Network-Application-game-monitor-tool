@@ -1,4 +1,4 @@
-# Neural Network Application Game Monitor Tool.README
+# Neural Network Application Game Monitor Tool
 
 The Neural Network Application Game Monitor Tool, also known as the "遊戲監視器小幫手," is a program developed to provide convenience to game players who want to stay updated on game developments without being in front of their computers all the time.
 
